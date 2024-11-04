@@ -36,7 +36,7 @@ Here is a list of design patterns that I have implemented:
 To use the implemented design patterns, clone this repository and navigate to the corresponding pattern's source file. Each implementation includes a main method that demonstrates how to use the pattern. For example:
 
 ```bash
-git clone https://github.com/yourusername/DesignPatterns.git
+git clone https://github.com/captiosus1/DesignPatterns.git
 cd DesignPatterns/src/singleton
 javac Singleton.java
 java Singleton
